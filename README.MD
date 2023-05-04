@@ -6,7 +6,8 @@ a predefined trajectory on a race track.
 
 ## Co-authors
 
-@wwLeji and @bobis33
+@wwLeji
+@bobis33
 
 ## Prerequisites
 
