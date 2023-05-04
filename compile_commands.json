@@ -1,0 +1,19 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-Wpedantic",
+      "-I./include",
+      "-O3",
+      "-c",
+      "-o",
+      "build/src/main.o",
+      "src/main.c"
+    ],
+    "directory": "/home/test/delivery/B-AIA-200-BDX-2-1-n4s-remi.grimault",
+    "file": "/home/test/delivery/B-AIA-200-BDX-2-1-n4s-remi.grimault/src/main.c",
+    "output": "/home/test/delivery/B-AIA-200-BDX-2-1-n4s-remi.grimault/build/src/main.o"
+  }
+]
