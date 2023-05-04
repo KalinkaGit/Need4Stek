@@ -10,9 +10,9 @@ a predefined trajectory on a race track.
 
 ## Prerequisites
 
-- [GCC] (https://gcc.gnu.org/)
-- [Make] (https://www.gnu.org/software/make/)
-- [CopeliaSim v4.3.0] (https://www.coppeliarobotics.com/previousVersions)
+- [GCC](https://gcc.gnu.org/)
+- [Make](https://www.gnu.org/software/make/)
+- [CopeliaSim v4.3.0](https://www.coppeliarobotics.com/previousVersions)
 
 ## Installation
 
